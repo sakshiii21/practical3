@@ -1,0 +1,124 @@
+body{
+    margin: 0%;
+    text-align: center;
+    font-family: 'Playfair Display', serif;
+}
+h1{
+    font-size:90px;  
+    font-family: 'Shantell Sans', cursive;
+    color: #AACB73;
+    line-height: 2rem;
+}
+.top-container{    
+    background-color: #FFFFE8;
+    padding-top: 100px;
+    /* border:solid 10px;
+    padding: 20px; */
+}
+.top-cloud{
+    position: absolute;
+    right: 15%;
+    top: 50px;
+    height: 150px;
+    width: 150px;
+}
+.bottom-cloud{
+    position: absolute;
+    left: 15%;
+    bottom: 400px;
+    height: 150px;
+    width: 150px;
+}
+.sakura{
+    margin-top: 10px;
+}
+h2{
+    font-size: 2rem;
+    color: #AACB73;
+    font-weight: normal;
+}
+h3{
+    color: #7fb30d;
+}
+a{
+    color: #CDE990;
+    margin: auto 15px 30px 15px;
+    text-decoration: none;
+}
+a:hover {
+    color: #FFFFE8;
+}
+.skill-row{
+    width: 50%;
+    margin: 50px auto;
+    line-height: 2;
+}
+.designing{
+    width: 25%;
+    float: left;
+    margin-right: 25px;
+    text-align: right;
+}
+.writing {
+    width: 25%;
+    float: right;
+    margin-left: 25px;    
+    text-align: left;
+}
+.profile-img {
+    width: 250px;
+    border-radius: 50%;
+    margin-top: 20px;
+}
+.profile {
+    width: 50%;
+    margin: 100px auto;
+    line-height: 2;
+}
+.profile-text {
+    width: 40%;
+    margin: 0 auto;
+}
+hr{
+    border-style: dotted none none;
+     width: 4%;
+     border-width: 8px;
+     border-color: grey;
+  }
+.skills {
+    padding: 80px;
+    background-color: #FFD4D4;
+}
+.skills-2 {
+    padding: 80px;
+    background-color: #FFFFE8 ;
+}
+.btn {
+    -webkit-border-radius: 17;
+    -moz-border-radius: 17;
+    border-radius: 17px;
+    font-family: Georgia;
+    color: #ffffff;
+    font-size: 20px;
+    background: #FFD4D4;
+    padding: 12px 20px 10px 20px;
+    text-decoration: none;
+  }
+  
+  .btn:hover {
+    background: #CDE990;
+    text-decoration: none;
+  }
+.bottom-container {
+    padding: 50px;
+    background-color:#AACB73 ;
+    margin: 80px auto 0 auto;
+}
+.contact-me-text {
+    margin:0 auto 30px 0px;
+}
+.bottom-con-p {
+    font-size: 12px;
+    padding: 20px;
+    color: #FFFFE8;
+}
